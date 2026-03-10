@@ -1,7 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Aniket
+
+🎓 CSE Student at PES University  
+🚗 Interested in Automobile Design  
+💻 Learning C, DSA and Web Development  
+
+## Skills
+- C/C++
+- Python
+- DSA
+- HTML
+
+## Connect with me
+- LinkedIn : https://www.linkedin.com/in/aniket-sen-587a1a316/
 
 <!--
-**aniketsen9/aniketsen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)**aniketsen9/aniketsen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
