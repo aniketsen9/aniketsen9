@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I+am+Aniket&center=true&size=30)
-# Hi 👋 I'm Aniket
+
 
 🎓 CSE Student at PES University  
 🚗 Interested in Automobile Design  
