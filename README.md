@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I+am+Aniket&center=true&size=30)
 # Hi 👋 I'm Aniket
 
 🎓 CSE Student at PES University  
@@ -12,6 +13,8 @@
 
 ## Connect with me
 - LinkedIn : https://www.linkedin.com/in/aniket-sen-587a1a316/
+
+  
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)**aniketsen9/aniketsen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
