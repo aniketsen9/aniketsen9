@@ -1,10 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Aniket&fontSize=40&fontColor=ffffff" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hi%20I'm%20Aniket&fontSize=50&fontColor=ffffff"/>
+</div>
 
 ## Introduction
-🎓 CSE Student at PES University  
-🚗 Interested in Automobile Design  
-💻 Learning C, DSA and Web Development  
+<h3 align="center">💻 Computer Science Student | 🚗 Automobile Enthusiast | 🚀 Future Innovator</h3>
+
+<p align="center">
+Passionate about technology, coding, and building innovative solutions.
+Currently pursuing Computer Science and exploring software development,
+problem solving, and the world of automobiles.
+</p>
 
 ## Skills
 - ![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=java)
@@ -12,28 +17,20 @@
 - ![C/C++](https://img.shields.io/badge/C/C++-grey?style=for-the-badge&logo=c)
 - ![DSA](https://img.shields.io/badge/DSA-red?style=for-the-badge&logo=git)
 
-## Connect with me
+## Connect With Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniket-sen-587a1a316/)
 
 - [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](aniketsen33333@gmail.com)
 
+<h2>🎯 Hobbies</h2>
 
+- <img src="https://img.shields.io/badge/🚗%20Automobiles-FF5733?style=for-the-badge"/>
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketsen9&theme=tokyo-night)
+- <img src="https://img.shields.io/badge/💻%20Coding-007BFF?style=for-the-badge"/>
 
-  
+- <img src="https://img.shields.io/badge/🎮%20Gaming-8A2BE2?style=for-the-badge"/>
 
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)**aniketsen9/aniketsen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <img src="https://img.shields.io/badge/🎧%20Music-FF1493?style=for-the-badge"/>
 
-Here are some ideas to get you started:
+- <img src="https://img.shields.io/badge/🌍%20Travelling-28A745?style=for-the-badge"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
