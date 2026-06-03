@@ -3,7 +3,7 @@
 </div>
 
 ## Introduction
-<h3 align="center">💻 Computer Science Student | 🚗 Automobile Enthusiast | 🚀 Future Innovator</h3>
+<h3 align="center"> Computer Science Student |  Automobile Enthusiast |  Future Innovator</h3>
 
 <p align="center">
 Passionate about technology, coding, and building innovative solutions.
@@ -22,7 +22,7 @@ problem solving, and the world of automobiles.
 
 - [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](aniketsen33333@gmail.com)
 
-<h2>🎯 Hobbies</h2>
+<h2> Hobbies</h2>
 
 - <img src="https://img.shields.io/badge/🚗%20Automobiles-FF5733?style=for-the-badge"/>
 
