@@ -30,14 +30,6 @@
 ![Systems](https://img.shields.io/badge/Systems%20%26%20OS-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web%20Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketsen9&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsen9&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
 
 ---
 
