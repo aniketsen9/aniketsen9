@@ -1,36 +1,48 @@
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hi%20I'm%20Aniket&fontSize=50&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+I'm+Aniket+Sen;CSE+Student+at+PES+University;Competitive+Programmer+|+AI/ML+Enthusiast" alt="Typing SVG" />
 </div>
 
-## Introduction
-<h3 align="center"> Computer Science Student |  Automobile Enthusiast |  Future Innovator</h3>
+---
 
-<p align="center">
-Passionate about technology, coding, and building innovative solutions.
-Currently pursuing Computer Science and exploring software development,
-problem solving, and the world of automobiles.
-</p>
+### About Me
 
-## Skills
-- ![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=java)
-- ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-- ![C/C++](https://img.shields.io/badge/C/C++-grey?style=for-the-badge&logo=c)
-- ![DSA](https://img.shields.io/badge/DSA-red?style=for-the-badge&logo=git)
+- B.Tech CSE student at **PES University, Bangalore**
+- Passionate about **Competitive Programming**, **Systems & OS**, **AI/ML**, and **Web Development**
+- Currently sharpening DSA skills and exploring low-level systems
+- Always building, always learning
 
-## Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniket-sen-587a1a316/)
+---
 
-- [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](aniketsen33333@gmail.com)
+### Tech Stack
 
-<h2> Hobbies</h2>
+**Languages**
 
-- <img src="https://img.shields.io/badge/🚗%20Automobiles-FF5733?style=for-the-badge"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-- <img src="https://img.shields.io/badge/💻%20Coding-007BFF?style=for-the-badge"/>
+**Domains**
 
-- <img src="https://img.shields.io/badge/🎮%20Gaming-8A2BE2?style=for-the-badge"/>
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/CP-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Systems](https://img.shields.io/badge/Systems%20%26%20OS-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web%20Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- <img src="https://img.shields.io/badge/🎧%20Music-FF1493?style=for-the-badge"/>
+---
 
-- <img src="https://img.shields.io/badge/🌍%20Travelling-28A745?style=for-the-badge"/>
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketsen9&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsen9&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-sen-587a1a316/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketsen33333@gmail.com)
 
